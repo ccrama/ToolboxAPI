@@ -5,7 +5,7 @@ import org.json.JSONException;
 import org.json.JSONObject;
 
 /**
- * Created by carlo_000 on 8/13/2015.
+ * Created by ccrama on 8/13/2015.
  */
 public class Note {
     private String note;

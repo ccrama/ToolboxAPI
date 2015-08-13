@@ -1,7 +1,7 @@
 package me.ccrama.ToolboxAPI;
 
 /**
- * Created by carlo_000 on 8/13/2015.
+ * Created by ccrama on 8/13/2015.
  */
 public enum Warnings {
         NONE("none"),

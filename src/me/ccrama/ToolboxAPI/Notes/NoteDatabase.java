@@ -8,7 +8,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by carlo_000 on 8/13/2015.
+ * Created by ccrama on 8/13/2015.
  */
 public class NoteDatabase {
     public int version;
